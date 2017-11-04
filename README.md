@@ -6,7 +6,9 @@ Train a model that may inform a self-driving car when to 'Brake' given certain d
 Data used for this project come from the [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/index.php) (positional, velocity, acceleration, etc.) and labeled object detection data from [KITTI MoSeg](http://webdocs.cs.ualberta.ca/~vis/kittimoseg/)
 
 ## Data
-Data used for this project come from the [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/index.php) (positional, velocity, acceleration, etc.) and labeled object detection data from [KITTI MoSeg](http://webdocs.cs.ualberta.ca/~vis/kittimoseg/).  Downloaded datasets are found in drive_data and box_data respectively.
+Data used for this project come from the [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/index.php) (positional, velocity, acceleration, etc.) and labeled object detection data from [KITTI MoSeg](http://webdocs.cs.ualberta.ca/~vis/kittimoseg/).  Downloaded datasets from these sources are found in the drive_data and box_data folders respectively.
+
+A processed data set is found in the processed_data folder.
 
 ## Scripts
 Data from the above sources is processed in ParseFeaturesAndLabels.ipynb
