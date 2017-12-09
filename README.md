@@ -15,3 +15,11 @@ Data from the above sources is processed in ParseFeaturesAndLabels.ipynb
 
 A basic LSTM is trained on the time series data in LSTM.ipynb
 
+TODO: 
+HMM
+Stagger General ML
+Revisit LSTM
+GANS or  VAE to create new images for training
+
+
+
